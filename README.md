@@ -14,12 +14,13 @@ Grob-Planung
 
 
 20.2.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich zusammen mit Kilian Stäuble am Modul 187 gearbeitet und konnte alles erfolgreich abschliessen und abgegeben. Wir haben den Auftrag 0701, 0702 und 0703 gearbeitet und konnten sehr konzentriert arbeiten. Danach habe ich probiert mich in Unity anzumelden, um zu schauen wie es funktioniert, nach vielen Problemen beim Anmelden habe ich es auch geschaftt, aber hatte keine Zeit mehr etwas auszuprobieren. (63)
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+- [ ] M187 0705
+- [ ] M187 0706
+- [ ] Tutorial zu Unity bearbeiten [Link](https://learn.unity.com/tutorial/get-started-with-the-unity-hub/?tab=overview&uv=2021.3#)
+- [ ] M187 0706
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
