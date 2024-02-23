@@ -20,7 +20,8 @@ Heute habe ich zusammen mit Kilian Stäuble am Modul 187 gearbeitet und konnte a
 - [ ] M187 0705
 - [ ] M187 0706
 - [ ] Tutorial zu Unity bearbeiten [Link](https://learn.unity.com/tutorial/get-started-with-the-unity-hub/?tab=overview&uv=2021.3#)
-- [ ] M187 0706
+- [ ] M187 0707
+
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
