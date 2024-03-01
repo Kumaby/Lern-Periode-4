@@ -17,11 +17,11 @@ Grob-Planung
 Heute habe ich zusammen mit Kilian Stäuble am Modul 187 gearbeitet und konnte alles erfolgreich abschliessen und abgegeben. Wir haben den Auftrag 0701, 0702 und 0703 gearbeitet und konnten sehr konzentriert arbeiten. Danach habe ich probiert mich in Unity anzumelden, um zu schauen wie es funktioniert, nach vielen Problemen beim Anmelden habe ich es auch geschaftt, aber hatte keine Zeit mehr etwas auszuprobieren. (63)
 
 27.2.2024
-- [ ] M187 0701
-- [ ] M187 0704
-- [ ] M187 0705
+- [x] M187 0701
+- [x] M187 0702
+- [x] M187 0703 / 0704
 - [ ] Tutorial zu Unity bearbeiten [Link](https://learn.unity.com/tutorial/get-started-with-the-unity-hub/?tab=overview&uv=2021.3#)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich am Modul 187 gearbeitet und bin anfangs noch gut vorangekommen, die letzten 45 Minuten war ich jedoch sehr unkonzentriert und bin deshalb nicht schnell genug vorangekommen um an Unity zu arbeiten, im grossen und ganzen war ich ziemlich zufrieden mit dem ganzen, obwohl es schade ist, dass ich Unity nicht testen konnte (55)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
