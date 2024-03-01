@@ -9,7 +9,7 @@ Grob-Planung
 
 1) Es gab während der Lern-Periode 3 keine neuen Noten, also habe ich immer noch einen 3.5 Notenschnitt. Wir haben aber schon 2 Projekte abgegeben, leider dafür die Noten noch nicht bekommen.
 2) Ich möchte weiter an den Modulen arbeiten, da es momentan gut funktioniert. Wie schon im am Ende der Lern-Periode-3 geschrieben muss ich in den anderen informatik Lektionen besser arbeiten.
-3) x
+3) Ich möchte lernen spiele mit Unity zu machen
 4) x
 
 
