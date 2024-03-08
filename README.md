@@ -24,4 +24,18 @@ Heute habe ich zusammen mit Kilian Stäuble am Modul 187 gearbeitet und konnte a
 
 Heute habe ich am Modul 187 gearbeitet und bin anfangs noch gut vorangekommen, die letzten 45 Minuten war ich jedoch sehr unkonzentriert und bin deshalb nicht schnell genug vorangekommen um an Unity zu arbeiten, im grossen und ganzen war ich ziemlich zufrieden mit dem ganzen, obwohl es schade ist, dass ich Unity nicht testen konnte (55)
 
+08.03.2024
 
+- [x] M187 0711
+- [x] M187 0711
+- [ ] M187 0712
+- [ ] M187 0712
+
+Ich habe eigentlich gut gearbeitet, mit dem Auftrag 0711, war aber nach der hälfte des Auftrags eher unkonzentriert. Ich habe anfangs probleme gehabt alles zu verstehen, aber nach einer weile konnteich den ersten auftrag fertigstellen. Mit dem zweiten Auftrag konnte ich nicht verstigstellen, da ich für den ersten ein bisschen zu lange gebraucht habe und den Zweiten schwirieger war als der erste. (62)
+
+15.03.2024
+
+- [ ] 0713
+- [ ] 0713
+- [ ] 0714
+- [ ] 0715
