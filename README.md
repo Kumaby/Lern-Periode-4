@@ -35,7 +35,7 @@ Ich habe eigentlich gut gearbeitet, mit dem Auftrag 0711, war aber nach der häl
 
 15.03.2024
 
-- [ ] M187 0713
-- [ ] M187 0713
-- [ ] M187 0714
+- [x] M187 0713
+- [x]M187 0713
+- [x] M187 0714
 - [ ] M187 0715
